@@ -10,7 +10,7 @@ Principais áreas de atuação:
 - Machine Learning & LLMs (PyTorch, Hugging Face)
 - Aplicações web (Next.js) e scripts/serviços (Node.js)
 
-## Tecnologias & ícones
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
